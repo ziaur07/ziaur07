@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ziaur07
+- 👋 Hi, I’m ziaur rahman zia 21 years of age and an aspiring software developer
 - 👀 I’m interested in ... full stack web development
 - 🌱 I’m currently learning ... djaango and Sql
 - 💞️ I’m looking to collaborate on ... paid/ unpaid internships, proejcts, job etc
