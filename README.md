@@ -5,7 +5,7 @@
 - 📫 How to reach me ... https://twitter.com/Ziaur__
                       ... zrzbusiness07@gmail.com
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: ... besides software development , i am also an active boxer and weight lifter 130 deadlift pr 
+- ⚡ Fun fact: ... besides software development , i am also an active boxer and weight lifter. 130 kilos deadlift pr 
 
 <!---
 ziaur07/ziaur07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
