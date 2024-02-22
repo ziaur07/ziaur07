@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... full stack web development
 - 🌱 I’m currently learning ... djaango and Sql
 - 💞️ I’m looking to collaborate on ... paid/ unpaid internships, proejcts, job etc
-- 📫 How to reach me ...https://twitter.com/Ziaur__
+- 📫 How to reach me ...
                       ... zrzbusiness07@gmail.com
 
 - ⚡ Fun fact: ... besides software development , i am also an active boxer and weight lifter. 130 kilos deadlift pr 
