@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
                       ... zrzbusiness07@gmail.com
 
-- ⚡ Fun fact: ... besides software development , i am also an active boxer and weight lifter. 130 kilos deadlift pr 
+- ⚡ Fun fact: ... besides software development , i am also an active boxer and weight lifter. 165 kilos deadlift pr 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziaur07&show_icons=true&theme=radical&hide=issues)](https://github.com/ziaur07&show_icons=true&theme=radical/github-readme-stats)
 
